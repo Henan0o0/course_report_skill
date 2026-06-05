@@ -1,0 +1,2 @@
+# course_report_skill
+翻了好多skill，但都没有和自己习惯完全相适配的workflow，于是自己搭了一个，可以上传模版，使用过往报告让agent模拟语言风格，并且检查latex转word的渲染是否正常等。应该会随着使用更新。
